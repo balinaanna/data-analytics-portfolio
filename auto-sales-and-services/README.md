@@ -1,4 +1,4 @@
-## Automotive Sales & Service Dashboard
+# Automotive Sales & Service Dashboard
 
 ![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos-052FAD?logo=ibm&logoColor=white)  
 
@@ -7,6 +7,17 @@ Built an interactive Cognos Analytics dashboard to analyze performance metrics f
 
 This lab was part of the IBM Data Analyst Professional Certificate, focused on developing hands-on skills in data visualization and business intelligence using IBM Cognos Analytics.
 The scenario simulated the role of a Regional Manager responsible for monitoring sales and service performance across multiple dealerships.
+
+## Implementation
+- Designed and implemented two **tabbed dashboards** (Sales and Service) in **IBM Cognos Analytics**.
+- Connected and explored the _Auto Group Data Module_ dataset.
+- Applied **data formatting** and created visualizations using:
+  - **KPI** widgets for profit, quantity sold, and averages.
+  - **Bar, column, line-column combo, treemap, and heatmap charts** to analyze sales and service performance.
+- Configured **sorting, aggregation, and formatting** options to ensure clarity and business relevance.
+- **Exported** the completed dashboards as professional PDF reports for presentation.
+
+## Dashboard Overview & Visuals
 
 ### Sales Dashboard
 
@@ -29,15 +40,6 @@ The scenario simulated the role of a Regional Manager responsible for monitoring
 - Heatmap: Recalls by model and affected system (to identify recurring faults)
 
 ![Service Dashboard](./visuals/service_dashboard.jpg)
-
-## Implementation
-- Designed and implemented two **tabbed dashboards** (Sales and Service) in **IBM Cognos Analytics**.
-- Connected and explored the _Auto Group Data Module_ dataset.
-- Applied **data formatting** and created visualizations using:
-  - **KPI** widgets for profit, quantity sold, and averages.
-  - **Bar, column, line-column combo, treemap, and heatmap charts** to analyze sales and service performance.
-- Configured **sorting, aggregation, and formatting** options to ensure clarity and business relevance.
-- **Exported** the completed dashboards as professional PDF reports for presentation.
 
 ## Deliverables
 - Two-tab Cognos Dashboard (Sales & Service)
