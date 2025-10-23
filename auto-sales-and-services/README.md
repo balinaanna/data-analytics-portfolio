@@ -30,7 +30,15 @@ The scenario simulated the role of a Regional Manager responsible for monitoring
 
 ![Service Dashboard](./visuals/service_dashboard.jpg)
 
+## Implementation
+- Designed and implemented two **tabbed dashboards** (Sales and Service) in **IBM Cognos Analytics**.
+- Connected and explored the _Auto Group Data Module_ dataset.
+- Applied **data formatting** and created visualizations using:
+  - **KPI** widgets for profit, quantity sold, and averages.
+  - **Bar, column, line-column combo, treemap, and heatmap charts** to analyze sales and service performance.
+- Configured **sorting, aggregation, and formatting** options to ensure clarity and business relevance.
+- **Exported** the completed dashboards as professional PDF reports for presentation.
 
-📁 Deliverables
+## Deliverables
 - Two-tab Cognos Dashboard (Sales & Service)
 - Exported PDF dashboard report
