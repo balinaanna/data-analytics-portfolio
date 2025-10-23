@@ -3,7 +3,7 @@
 ![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos-052FAD?logo=ibm&logoColor=white)  
 
 
-Built an interactive Cognos Analytics dashboard to analyze performance metrics for a regional car dealership group. The project visualizes sales and service data to support data-driven decision-making through KPI tracking, comparative charts, and trend analysis.
+Built an interactive Cognos Analytics dashboard to analyze performance metrics for a regional car dealership group.
 
 This lab was part of the IBM Data Analyst Professional Certificate, focused on developing hands-on skills in data visualization and business intelligence using IBM Cognos Analytics.
 The scenario simulated the role of a Regional Manager responsible for monitoring sales and service performance across multiple dealerships.
@@ -19,7 +19,7 @@ The scenario simulated the role of a Regional Manager responsible for monitoring
 - Bar Chart: Quantity Sold by Model
 - Column Chart: Profit by Dealer ID (sorted ascending)
 
-![Sales Dashboard](visuals/sales_dashboard.png)
+![Sales Dashboard](./visuals/Auto_Sales_Dashboard_Sales.jpg)
 
 ### Service Dashboard
 **Charts & Insights:**
@@ -28,7 +28,7 @@ The scenario simulated the role of a Regional Manager responsible for monitoring
 - Line & Column Chart: Cars sold per month vs. profit
 - Heatmap: Recalls by model and affected system (to identify recurring faults)
 
-![Service Dashboard](visuals/service_dashboard.png)
+![Service Dashboard](./visuals/Auto_Sales_Dashboard_Service.jpg)
 
 
 📁 Deliverables
