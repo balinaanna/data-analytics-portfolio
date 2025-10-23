@@ -19,7 +19,7 @@ The scenario simulated the role of a Regional Manager responsible for monitoring
 - Bar Chart: Quantity Sold by Model
 - Column Chart: Profit by Dealer ID (sorted ascending)
 
-![Sales Dashboard](./visuals/Auto_Sales_Dashboard_Sales.jpg)
+![Sales Dashboard](./visuals/sales_dashboard.jpg)
 
 ### Service Dashboard
 **Charts & Insights:**
@@ -28,7 +28,7 @@ The scenario simulated the role of a Regional Manager responsible for monitoring
 - Line & Column Chart: Cars sold per month vs. profit
 - Heatmap: Recalls by model and affected system (to identify recurring faults)
 
-![Service Dashboard](./visuals/Auto_Sales_Dashboard_Service.jpg)
+![Service Dashboard](./visuals/service_dashboard.jpg)
 
 
 📁 Deliverables
