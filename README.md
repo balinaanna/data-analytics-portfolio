@@ -1,4 +1,4 @@
-# Anna (Balina) Stupachenko — Data Analytics Portfolio
+# Anna Stupachenko (Balina) — Data Analytics Portfolio
 
 Welcome to my Data Analytics Portfolio!  
 I combine over 10 years of Full-Stack Software Engineering experience with a strong analytical mindset to explore, clean, and visualize data, uncovering insights that drive better decisions.
@@ -26,17 +26,15 @@ I combine over 10 years of Full-Stack Software Engineering experience with a str
 - [Automotive Sales & Service Dashboard ![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos-052FAD?logo=ibm&logoColor=white)](./auto-sales-and-services)  
 _Hands-on Lab: Creating Visualizations Using IBM Cognos Analytics._
 
----
 
 ## Professional Development
 IBM Data Analyst Professional Certificate  
 Microsoft AI-900 Azure Fundamentals  
 
----
 
 **Connect with me:**  
 [LinkedIn/in/anna-stupachenko/](https://www.linkedin.com/in/anna-stupachenko/)  
 anna.stupachenko.work@gmail.com  
 
 Vancouver, British Columbia, Canada  
-©️ 2025 Anna (Balina) Stupachenko
+©️ 2025 Anna Stupachenko (Balina)
