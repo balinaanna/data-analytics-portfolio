@@ -1,7 +1,8 @@
 # Anna Stupachenko (Balina) — Data Analytics Portfolio
 
-Welcome to my Data Analytics Portfolio!  
-I combine over 10 years of Full-Stack Software Engineering experience with a strong analytical mindset to explore, clean, and visualize data, uncovering insights that drive better decisions.
+##### Welcome to my Data Analytics Portfolio! Thanks for stopping by 👋  
+Driven by curiosity, I'm combining my background in **full-stack software engineering** with new **analytical and visualization techniques** to explore how data storytelling can bridge technology, design, and human impact.  
+This portfolio is a **work in progress** - I'm continuously learning, experimenting, and expanding it through real-world data projects.  
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
