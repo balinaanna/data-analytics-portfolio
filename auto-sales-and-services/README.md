@@ -1,6 +1,7 @@
 # Automotive Sales & Service Dashboard
 
-![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos-052FAD?logo=ibm&logoColor=white)  
+![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos-052FAD?logo=ibm&logoColor=white)
+![Google Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-4285F4?logo=looker&logoColor=white)
 
 
 Built an interactive Cognos Analytics dashboard to analyze performance metrics for a regional car dealership group.
