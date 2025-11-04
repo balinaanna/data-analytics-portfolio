@@ -1,8 +1,9 @@
 # Anna Stupachenko (Balina) — Data Analytics Portfolio
 
-##### Welcome to my Data Analytics Portfolio! Thanks for stopping by 👋  
+##### Welcome to my Data Analytics Portfolio! Thanks for stopping by 👋
+
 Driven by curiosity, I'm combining my background in **full-stack software engineering** with new **analytical and visualization techniques** to explore how data storytelling can bridge technology, design, and human impact.  
-This portfolio is a **work in progress** - I'm continuously learning, experimenting, and expanding it through real-world data projects.  
+This portfolio is a **work in progress** - I'm continuously learning, experimenting, and expanding it through real-world data projects.
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -24,18 +25,17 @@ This portfolio is a **work in progress** - I'm continuously learning, experiment
 
 ## 📊 Projects
 
-- [Automotive Sales & Service Dashboard ![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos-052FAD?logo=ibm&logoColor=white)](./auto-sales-and-services)  
-_Hands-on Lab: Creating Visualizations Using IBM Cognos Analytics._
-
+- [Automotive Sales & Service Dashboard ![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos-052FAD?logo=ibm&logoColor=white)](./automotive-dashboard)  
+  _Hands-on Lab: Creating Visualizations Using IBM Cognos Analytics._
 
 ## Professional Development
-IBM Data Analyst Professional Certificate  
-Microsoft AI-900 Azure Fundamentals  
 
+IBM Data Analyst Professional Certificate  
+Microsoft AI-900 Azure Fundamentals
 
 **Connect with me:**  
 [LinkedIn/in/anna-stupachenko/](https://www.linkedin.com/in/anna-stupachenko/)  
-anna.stupachenko.work@gmail.com  
+anna.stupachenko.work@gmail.com
 
 Vancouver, British Columbia, Canada  
 ©️ 2025 Anna Stupachenko (Balina)
