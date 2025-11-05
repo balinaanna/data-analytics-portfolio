@@ -14,8 +14,6 @@ This portfolio is a **work in progress** - I'm continuously learning, experiment
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos-052FAD?logo=ibm&logoColor=white)
 ![Google Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-4285F4?logo=looker&logoColor=white)  
 **Platforms & Tools:**  
