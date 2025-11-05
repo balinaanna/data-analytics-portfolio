@@ -27,7 +27,7 @@ This portfolio is a **work in progress** - I'm continuously learning, experiment
 ## 📊 Projects
 
 - [Automotive Sales & Service Dashboard ![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos-052FAD?logo=ibm&logoColor=white)](./automotive-dashboard) ![Google Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-4285F4?logo=looker&logoColor=white)  
-  _Hands-on Lab: Creating Visualizations Using IBM Cognos Analytics._
+  _Hands-on Lab: Demonstrates skills in business intelligence, data visualization, dashboard design, and cross-platform BI implementation._
 
 ## Professional Development
 
