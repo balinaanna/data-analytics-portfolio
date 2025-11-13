@@ -24,10 +24,10 @@ This portfolio is a **work in progress** - I'm continuously learning, experiment
 
 ## 📊 Projects
 
-- [Automotive Sales & Service Dashboard](./automotive-dashboard) ![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos-052FAD?logo=ibm&logoColor=white) ![Google Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-4285F4?logo=looker&logoColor=white)  
+- [Automotive Sales & Service Dashboard ![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos-052FAD?logo=ibm&logoColor=white) ![Google Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-4285F4?logo=looker&logoColor=white)](./automotive-dashboard)  
   _Hands-on Lab: Demonstrates skills in business intelligence, data visualization, dashboard design, and cross-platform BI implementation._
 
-- [NYC Traffic Accidents Analysis](./nyc-traffic-accidents)
+- [NYC Traffic Accidents Analysis ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white)](./nyc-traffic-accidents)  
   _Exploratory end-to-end analysis of real-world open data revealing temporal patterns, high-risk locations, leading contributing factors, and severity insights, showcasing strong Excel data cleaning, aggregation, visualization, and storytelling skills._
 
 ## Professional Development
