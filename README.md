@@ -1,4 +1,4 @@
-# Anna Stupachenko (Balina) — Data Analytics Portfolio
+# Anna Stupachenko (Balina) - Data Analytics Portfolio
 
 ##### Welcome to my Data Analytics Portfolio! Thanks for stopping by 👋
 
@@ -32,8 +32,27 @@ This portfolio is a **work in progress** - I'm continuously learning, experiment
 
 ## Professional Development
 
-IBM Data Analyst Professional Certificate  
-Microsoft AI-900 Azure Fundamentals
+#### IBM Data Analyst Professional Certificate  
+#### Microsoft AI-900 Azure Fundamentals [🔗 Show Credentials](https://learn.microsoft.com/api/credentials/share/en-us/AnnaStupachenko/CCE57AC302DB3284?sharingId)  
+
+#### Courses Completed
+
+- The Python Programming For Everyone Immersive Training [Udemy]
+- Functional Programming using Elixir - The Complete Course [Udemy]
+- The Complete Microservices & Event-Driven Architecture [Udemy]
+- GRPC [Node.js] MasterClass: Build Modern API & Microservices [Udemy]
+- Python Bootcamp: Beginner to Master Programming [Udemy]
+- Six Sigma Yellow Belt [AIGPE] [🔗 Show Credentials](https://digitalcredentials.aigproexcellence.com/en/verify/21526953855499)
+- **Houdini FX Artist**, Lost Boys School of VFX - Montreal, QC | 2019 - 2020
+
+## Education
+**Master of Science** in **Dynamics and Strengths** -	June 2011  
+**Bachelor of Science** in **Mechanics** - June 2010  
+Oles Honchar Dnipro National University - Dnipro, Ukraine  
+[🔗 Verify with World Education Services (WES)](https://www.credly.com/badges/47a4b4b3-2150-4668-b3c1-b444b1bb2093/)
+
+**Relevant Courses**:  
+Mathematical Analysis, Advanced Algebra, Analytic Geometry, Fundamentals of Programming and Algorithmic Languages, Differential Geometry and Tensor Calculus, Office Technology and PC Software, Probability Theory, Random Processes and Elements of Mathematical Statistics, Complex Analysis, Languages of Object-Oriented Programming, Numerical Methods in Mechanics, Database Systems, Computational Geometry and Computer Graphics, Data Processing Package and Internet Technology, Intellectual Property, Modern Programming Technology 
 
 **Connect with me:**  
 [LinkedIn/in/anna-stupachenko/](https://www.linkedin.com/in/anna-stupachenko/)  
