@@ -2,7 +2,7 @@
 
 ##### Welcome to my Data Analytics Portfolio! Thanks for stopping by 👋
 
-Driven by curiosity, I'm combining my background in **full-stack software engineering** with new **analytical and visualization techniques** to explore how data storytelling can bridge technology, design, and human impact.  
+Driven by curiosity, I'm combining my background in **full-stack software engineering** with **analytical and visualization techniques** to explore how data storytelling can bridge technology, design, and human impact.  
 This portfolio is a **work in progress** - I'm continuously learning, experimenting, and expanding it through real-world data projects.
 
 **Languages:**  
