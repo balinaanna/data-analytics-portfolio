@@ -50,8 +50,8 @@ This portfolio is a **work in progress** - I'm continuously learning, experiment
 
 ## Education
 
-**Master of Science** in **Mechanical Engineering**, **Dynamics and Strengths** - September 2006 - June 2011
-Oles Honchar Dnipro National University - Dnipro, Ukraine  
+**Master of Science** in **Mechanical Engineering** (**Dynamics and Strengths**)  
+Oles Honchar Dnipro National University | Dnipro, Ukraine | September 2006 - June 2011  
 [🔗 Verify with World Education Services (WES)](https://www.credly.com/badges/47a4b4b3-2150-4668-b3c1-b444b1bb2093/)
 
 **Relevant Courses**:  
