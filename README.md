@@ -25,10 +25,16 @@ This portfolio is a **work in progress** - I'm continuously learning, experiment
 
 ## 📊 Projects
 
-- [NYC Traffic Accidents Analysis ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white)](./nyc-traffic-accidents) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)  
+- [IBM Applied Data Analytics Project Suite](./ibm-project-suite)  
+**Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, Folium, Dash, Looker Studio**  
+  _Applied end-to-end analytics projects covering data collection, cleaning, exploratory analysis, modeling, visualization, and dashboard development. Demonstrates structured analytical workflows, statistical reasoning, and the ability to transform raw datasets into clear, decision-ready insights._
+
+- [NYC Traffic Accidents Analysis](./nyc-traffic-accidents)  
+**Microsoft Excel, Python, Pandas, Plotly**  
   _Exploratory end-to-end analysis of real-world open data revealing temporal patterns, high-risk locations, leading contributing factors, and severity insights, showcasing strong data cleaning, aggregation, visualization, and storytelling skills._
 
-- [Automotive Sales & Service Dashboard ![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos-052FAD?logo=ibm&logoColor=white) ![Google Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-4285F4?logo=looker&logoColor=white)](./automotive-dashboard)  
+- [Automotive Sales & Service Dashboard](./automotive-dashboard)  
+**IBM Cognos Analytics, Google Looker Studio**  
   _Hands-on Lab: Demonstrates skills in business intelligence, data visualization, dashboard design, and cross-platform BI implementation._
 
 ## Professional Development
