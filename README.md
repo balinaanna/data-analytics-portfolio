@@ -25,17 +25,17 @@ This portfolio is a **work in progress** - I'm continuously learning, experiment
 
 ## 📊 Projects
 
-- [IBM Applied Data Analytics Project Suite](./ibm-project-suite)  
-**Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, Folium, Dash, Looker Studio**  
-  _Applied end-to-end analytics projects covering data collection, cleaning, exploratory analysis, modeling, visualization, and dashboard development. Demonstrates structured analytical workflows, statistical reasoning, and the ability to transform raw datasets into clear, decision-ready insights._
+- [IBM Applied Data Analytics Project Suite](./projects/ibm-project-suite)  
+  **Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, Folium, Dash, Looker Studio**  
+   _Applied end-to-end analytics projects covering data collection, cleaning, exploratory analysis, modeling, visualization, and dashboard development. Demonstrates structured analytical workflows, statistical reasoning, and the ability to transform raw datasets into clear, decision-ready insights._
 
-- [NYC Traffic Accidents Analysis](./nyc-traffic-accidents)  
-**Microsoft Excel, Python, Pandas, Plotly**  
-  _Exploratory end-to-end analysis of real-world open data revealing temporal patterns, high-risk locations, leading contributing factors, and severity insights, showcasing strong data cleaning, aggregation, visualization, and storytelling skills._
+- [NYC Traffic Accidents Analysis](./projects/nyc-traffic-accidents)  
+  **Microsoft Excel, Python, Pandas, Plotly**  
+   _Exploratory end-to-end analysis of real-world open data revealing temporal patterns, high-risk locations, leading contributing factors, and severity insights, showcasing strong data cleaning, aggregation, visualization, and storytelling skills._
 
-- [Automotive Sales & Service Dashboard](./automotive-dashboard)  
-**IBM Cognos Analytics, Google Looker Studio**  
-  _Hands-on Lab: Demonstrates skills in business intelligence, data visualization, dashboard design, and cross-platform BI implementation._
+- [Automotive Sales & Service Dashboard](./projects/automotive-dashboard)  
+  **IBM Cognos Analytics, Google Looker Studio**  
+   _Hands-on Lab: Demonstrates skills in business intelligence, data visualization, dashboard design, and cross-platform BI implementation._
 
 ## Professional Development
 
