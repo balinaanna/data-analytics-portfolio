@@ -1,13 +1,19 @@
-# Anna Stupachenko (Balina) - Data Analytics Portfolio
+# Anna Stupachenko (Balina) — Technology Portfolio
 
-##### Welcome to my Data Analytics Portfolio! Thanks for stopping by 👋
+##### Welcome to my portfolio! Thanks for stopping by 👋
 
-Driven by curiosity, I'm combining my background in **full-stack software engineering** with **analytical and visualization techniques** to explore how data storytelling can bridge technology, design, and human impact.  
-This portfolio is a **work in progress** - I'm continuously learning, experimenting, and expanding it through real-world data projects.
+I’m a **Systems Analyst** focused on **AI solutions and business analysis**. I bring together business analysis, software engineering, AI, and automation to build systems that solve operational problems and create measurable business impact.  
+I’m especially interested in building new products, modernizing operations, and rethinking how work gets done with AI. This portfolio is a **work in progress** — a collection of practical projects that reflects how I approach those challenges.
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
+**Application Development:**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)  
 **Data Analysis & Visualization:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
@@ -23,7 +29,15 @@ This portfolio is a **work in progress** - I'm continuously learning, experiment
 
 ---
 
-## 📊 Projects
+## Projects
+
+- [Dive Conditions Assessment Assistant](https://github.com/balinaanna/dive-conditions-assistant)  
+  **Python, Flask, JavaScript, Chart.js, Marine and Weather APIs, Codex, Claude Code**  
+   _A decision-support application that uses live weather, tide, and ocean-current data to help freedivers find the best time to dive. It replaces manual analysis across multiple sources with one clear daily view and practical go/no-go recommendations._
+
+- [AI Job Search Agent](https://github.com/balinaanna/job-search-agent)  
+  **Python, React, TypeScript, SQLite, Codex, Claude Code**  
+   _A local AI agent that helps me focus on the right opportunities by evaluating job fit and key concerns, suggesting an application strategy, and preparing an application package. It traces content back to verified career evidence, requires explicit human approval before any application action, and safeguards against unsupported career claims._
 
 - [IBM Applied Data Analytics Project Suite](./projects/ibm-project-suite)  
   **Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, Folium, Dash, Looker Studio**  
@@ -35,7 +49,7 @@ This portfolio is a **work in progress** - I'm continuously learning, experiment
 
 - [Automotive Sales & Service Dashboard](./projects/automotive-dashboard)  
   **IBM Cognos Analytics, Google Looker Studio**  
-   _Hands-on Lab: Demonstrates skills in business intelligence, data visualization, dashboard design, and cross-platform BI implementation._
+   _Hands-on lab demonstrating skills in business intelligence, data visualization, dashboard design, and cross-platform BI implementation._
 
 ## Professional Development
 
@@ -45,6 +59,7 @@ This portfolio is a **work in progress** - I'm continuously learning, experiment
 
 #### Courses Completed
 
+- Full Business Analysis (CCBA preparation course) - April 2026
 - Junior Data Analyst - NPower Canada | Richmond, BC | October 2025 - January 2026
 - The Python Programming For Everyone Immersive Training [Udemy]
 - Functional Programming using Elixir - The Complete Course [Udemy]
@@ -68,4 +83,4 @@ Mathematical Analysis, Advanced Algebra, Analytic Geometry, Fundamentals of Prog
 anna.stupachenko.work@gmail.com
 
 Vancouver, British Columbia, Canada  
-©️ 2025 Anna Stupachenko (Balina)
+©️ 2026 Anna Stupachenko (Balina)
